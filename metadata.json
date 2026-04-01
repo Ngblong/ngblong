@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Hero",
+  "description": "A minimalist, cinematic hero section with a fullscreen looping background video and glassmorphic UI.",
+  "requestFramePermissions": []
+}
